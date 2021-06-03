@@ -1,0 +1,53 @@
+[33mtag v0.1.0.0[m
+Tagger: attelakir <tretyak.polina10@mail.ru>
+Date:   Thu Jun 3 19:09:57 2021 +0300
+
+I love TiMP
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAABCgAdFiEEI3xSm6bKTBsYTalxSQMpstgnUJ4FAmC4/woACgkQSQMpstgn
+UJ5DcAwAn3rGB2QpIQJUWeK+Acp0HvdHbA/baEUH3TcML4P3elVrTvJ9+/cLnAwq
+Z7YcVRlamDGkoAUt/QXGh3pramCyHuhx/G7Ps8nKKXEDoxJRoyFPyRML4srTSSJD
+VyjKwOE/RcmblZ7rVYyuaAenopzh9TJYINqrYdUtThp4eLPKQHe4xrXcpURDFiQL
+/YmJOpAuXk48EyLSwGUj1+GaAEJExepkolkR38Bo2bQ6L6+Fjy03Pcki7vTAPRQD
+SiLouSb6N3SXYIBpbdVAihg8OZVg+1fsY7KcuTPr3xywgUrfPQd7KtFINdUZjgTk
+3k49yl3qCuFTvRn/wtn4aoJ+rxwHXSGWdBkMJTDfWpSyGAtCUob+LLDMWK6Xvr6K
+g7BnyP1QeTVQZxcaPLkMP/HXeJd8bd6poMW+myGSxv46BgiIfhpTm6EU2uKivGEX
+tSGjIS1gkF1GfKeG84dL4D+Yq/k6sDcTSwlr38wFlf8lxxRgG97u7OtFrOsWYGOd
+NOXIvYHr
+=zN2c
+-----END PGP SIGNATURE-----
+
+[33mcommit 867a058b8db7c7c6b200d7eb033f640e7160f1ef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0.1.0.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: attelakir <71684236+attelakir@users.noreply.github.com>
+Date:   Thu Jun 3 16:14:16 2021 +0300
+
+    Initial commit
+
+[1mdiff --git a/LICENSE b/LICENSE[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b103ca0[m
+[1m--- /dev/null[m
+[1m+++ b/LICENSE[m
+[36m@@ -0,0 +1,21 @@[m
+[32m+[m[32mMIT License[m
+[32m+[m
+[32m+[m[32mCopyright (c) 2021 attelakir[m
+[32m+[m
+[32m+[m[32mPermission is hereby granted, free of charge, to any person obtaining a copy[m
+[32m+[m[32mof this software and associated documentation files (the "Software"), to deal[m
+[32m+[m[32min the Software without restriction, including without limitation the rights[m
+[32m+[m[32mto use, copy, modify, merge, publish, distribute, sublicense, and/or sell[m
+[32m+[m[32mcopies of the Software, and to permit persons to whom the Software is[m
+[32m+[m[32mfurnished to do so, subject to the following conditions:[m
+[32m+[m
+[32m+[m[32mThe above copyright notice and this permission notice shall be included in all[m
+[32m+[m[32mcopies or substantial portions of the Software.[m
+[32m+[m
+[32m+[m[32mTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR[m
+[32m+[m[32mIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,[m
+[32m+[m[32mFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE[m
+[32m+[m[32mAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER[m
+[32m+[m[32mLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,[m
+[32m+[m[32mOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE[m
+[32m+[m[32mSOFTWARE.[m
